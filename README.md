@@ -1,3 +1,9 @@
+> [!Warning]
+> tcxHap.jl is now included in TrussC.jl itself to fix the error of the Issue [#1](https://github.com/funatsufumiya/tcxHap.jl/issues/1) as an workaround.<br>
+> We are investigating to separate DLLs, until then, plaese stop using this library.
+
+----
+
 # tcxHap.jl
 
 tcxHap of [TrussC](https://trussc.org/) [Julia](https://julialang.org/) binding.

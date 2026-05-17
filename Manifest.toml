@@ -68,7 +68,7 @@ version = "0.1.0"
 
 [[deps.tcxHap_prebuilt_jll]]
 deps = ["Artifacts"]
-git-tree-sha1 = "700eb77f0f6a92dcfa2e252406cee784b243ed36"
+git-tree-sha1 = "9bc53ca9d6f3891cdcc7fc74508da262ff998ab7"
 repo-rev = "main"
 repo-url = "https://github.com/funatsufumiya/tcxHap_prebuilt_jll"
 uuid = "7e05f6af-0904-4d10-a62c-731e6275e007"

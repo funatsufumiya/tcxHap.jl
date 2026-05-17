@@ -55,6 +55,8 @@ module tcxHap
     getPan,
     setLoop,
     isLoop,
+    draw,
+    hasTexture,
     getCurrentFrame,
     getTotalFrames,
     setFrame,

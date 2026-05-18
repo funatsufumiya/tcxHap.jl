@@ -1,5 +1,5 @@
 > [!Warning]
-> tcxHap.jl is now included in TrussC.jl itself to fix the error of the Issue [#1](https://github.com/funatsufumiya/tcxHap.jl/issues/1) as an workaround.<br>
+> tcxHap.jl is now included in [TrussC.jl](https://github.com/funatsufumiya/TrussC.jl) itself to fix the error of the Issue [#1](https://github.com/funatsufumiya/tcxHap.jl/issues/1) as an workaround.<br>
 > We are investigating to separate DLLs, until then, plaese stop using this library.
 
 ----
